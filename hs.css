@@ -1,0 +1,39 @@
+a{
+ color: black;
+ text-transform: uppercase;
+ margin: 20px;
+}
+a:hover{
+color: cyan;
+}
+body{
+background-color: thistle;
+}
+.intro{
+color: black;
+background-image: url("h.jpeg");
+height: 300px;
+width: 100%;
+text-transform: uppercase;
+font-style: oblique;
+}
+hr{
+    height: 15px;
+}
+.intro:hover{
+color: red;
+}
+.hr{
+text-decoration: underline;
+}
+.about{
+text-transform: uppercase;
+}
+.quo{
+color: maroon;
+}
+.con{
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: darkslategray;
+}
